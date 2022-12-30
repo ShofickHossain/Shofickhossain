@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Btech In Computer Science**
 
-- 👨‍💻 All of my projects are available at [Google PlayStore](https://play.google.com/store/apps/dev?id=6863213620683973304)
+- 👨‍💻 All of my projects are available at [Google PlayStore Profile](https://play.google.com/store/apps/dev?id=6863213620683973304)
 
 - 💬 Ask me about **Flutter , NodeJs , ExpressJs , Aws , Gcloud , Javascript , Python , Reinforcement Learning , Server Management , VPS , Hosting , Startup Development , Youtube.**
 
@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/mwlite/in/shofick-hossain-092a641a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shofick hossain" height="30" width="40" /></a>
 <a href="https://fb.com/shofick hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shofick hossain" height="30" width="40" /></a>
 <a href="https://instagram.com/the_computer_mind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_computer_mind" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the computer mind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the computer mind" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@thecomputermind1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the computer mind" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
