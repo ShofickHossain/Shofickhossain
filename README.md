@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Btech In Computer Science**
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/details?id=com.TheComputerMind.android](https://play.google.com/store/apps/details?id=com.TheComputerMind.android)
+- 👨‍💻 All of my projects are available at [Google PlayStore](https://play.google.com/store/apps/dev?id=6863213620683973304)
 
-- 💬 Ask me about **Flutter , Node Js , Express Js , Aws , Gcloud , Javascript**
+- 💬 Ask me about **Flutter , NodeJs , ExpressJs , Aws , Gcloud , Javascript , Python , Reinforcement Learning , Server Management , VPS , Hosting , Startup Development , Youtube.**
 
 - 📫 How to reach me **Shofickhossain@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xaEqE9baIOnIXxcTezs00R7ZI74sbO17/view?usp=sharing](https://drive.google.com/file/d/1xaEqE9baIOnIXxcTezs00R7ZI74sbO17/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1xaEqE9baIOnIXxcTezs00R7ZI74sbO17/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am SuperHero**
 
